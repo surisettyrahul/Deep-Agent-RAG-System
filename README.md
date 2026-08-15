@@ -1,4 +1,4 @@
-# Agentic RAG Document Assistant with LangChain
+# Deep Agent RAG System
 
 > Upload PDF, Markdown, or text files and ask grounded questions through a Streamlit chat interface powered by LangChain, Mistral embeddings, and Deep Agents.
 
