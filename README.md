@@ -332,8 +332,4 @@ Learning-focused improvements are welcome. A useful contribution might add tests
 3. Make and test your changes.
 4. Open a pull request describing what changed and why.
 
----
 
-## License
-
-MIT license
